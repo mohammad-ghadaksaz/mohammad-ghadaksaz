@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-ghadaksaz" alt="mohammad-ghadaksaz" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohammad-ghadaksaz/mohammad-ghadaksaz](https://github.com/mohammad-ghadaksaz/)
+- 👨‍💻 All of my projects are available at [https://github.com/mohammad-ghadaksaz/](https://github.com/mohammad-ghadaksaz/)
 
 - 💬 Ask me about **Html 5 , Css 3 , Sass , Bootstrap, Javascript , Tailwind,...**
 
